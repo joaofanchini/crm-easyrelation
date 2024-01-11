@@ -16,7 +16,9 @@ A project that consists of building a CRM platform.
 * You can see reports.
 * You can define requirement fields to be filled in the register of a customer.
 
-## Conceptual Diagram of the Application
+## Conceptual Diagram
+
+## Logical Diagram
 
 ## Pipeline CI/CD Diagram
 
