@@ -9,8 +9,17 @@ A project that consists of building a CRM platform.
 * You can edit a profile.
 * You can delete a profile.
 * You can contact your customer via CRM (via whatsapp, call or send emails).
-* You can view a history of the interactions via CRM.
 * You can upload files like contracts.
-* You can create tasks to be done with clients.
+
+## Desprioritized Requirements
+* You can view a history of the interactions via CRM.
 * You can see reports.
 * You can define requirement fields to be filled in the register of a customer.
+
+## Conceptual Diagram of the Application
+
+## Pipeline CI/CD Diagram
+
+## Prerogatives Used
+ * Use Clean Architecture
+ * Hosted in AWS 
