@@ -22,4 +22,4 @@ A project that consists of building a CRM platform.
 
 ## Prerogatives Used
  * Use Clean Architecture
- * Hosted in AWS 
+ * Hosted in AWS
