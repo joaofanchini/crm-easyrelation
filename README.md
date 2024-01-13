@@ -17,13 +17,13 @@ A project that consists of building a CRM platform.
 * You can define requirement fields to be filled in the register of a customer.
 
 ## Conceptual Diagram
-![conceptual_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/6c10c971-ff9c-439d-804c-48161fd48d86)
+![conceptual_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/d4030e35-bf24-4aa0-b10d-eb44a6bdc504)
 
 ## Logical Diagram
 
 ## Pipeline CI/CD Diagram
 ![versioning_flow_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/5f6fe380-25f5-40b2-b8d0-e37e216459e1)
-
+  * The Trunk Based Model will be used as the model to versioning the app
 
 ## Prerogatives Used
  * Use Clean Architecture
