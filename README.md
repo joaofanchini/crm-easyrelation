@@ -17,8 +17,7 @@ A project that consists of building a CRM platform.
 * You can define requirement fields to be filled in the register of a customer.
 
 ## Conceptual Diagram
-![conceptual_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/5ec67669-daf2-4bb6-a413-f591d52f6e1b)
-
+![conceptual_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/6c10c971-ff9c-439d-804c-48161fd48d86)
 
 ## Logical Diagram
 
@@ -26,4 +25,4 @@ A project that consists of building a CRM platform.
 
 ## Prerogatives Used
  * Use Clean Architecture
- * Hosted in AWS
+ * Hosted in AWS, foollowing the AWS Well-Architected Framework
