@@ -27,4 +27,4 @@ A project that consists of building a CRM platform.
 
 ## Prerogatives Used
  * Use Clean Architecture
- * Hosted in AWS, foollowing the AWS Well-Architected Framework
+ * Hosted in AWS, following the AWS Well-Architected Framework
