@@ -17,7 +17,8 @@ A project that consists of building a CRM platform.
 * You can define requirement fields to be filled in the register of a customer.
 
 ## Conceptual Diagram
-![conceptual_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/47d2d07f-fed9-450e-a710-124ae8fea19e)
+![conceptual_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/5ec67669-daf2-4bb6-a413-f591d52f6e1b)
+
 
 ## Logical Diagram
 
