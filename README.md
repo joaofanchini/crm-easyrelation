@@ -22,6 +22,8 @@ A project that consists of building a CRM platform.
 ## Logical Diagram
 
 ## Pipeline CI/CD Diagram
+![versioning_flow_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/5f6fe380-25f5-40b2-b8d0-e37e216459e1)
+
 
 ## Prerogatives Used
  * Use Clean Architecture
