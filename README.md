@@ -25,6 +25,21 @@ A project that consists of building a CRM platform.
 ![versioning_flow_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/5f6fe380-25f5-40b2-b8d0-e37e216459e1)
   * The Trunk Based Model will be used as the model to versioning the app
 
+## Technologies
+
+### Front-end
+ * NextJS
+ * Storybook
+ * Jest
+ * Tailwind
+
+### Back-end
+ * NestJS
+ * Prisma
+
+### Databse
+ * MongoDB
+
 ## Prerogatives Used
  * Use Clean Architecture
  * Hosted in AWS, following the AWS Well-Architected Framework
