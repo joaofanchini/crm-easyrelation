@@ -36,8 +36,9 @@ A project that consists of building a CRM platform.
 ### Back-end
  * NestJS
  * Prisma
+ * Swagger
 
-### Databse
+### Database
  * MongoDB
 
 ## Prerogatives Used
