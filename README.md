@@ -29,9 +29,10 @@ A project that consists of building a CRM platform.
 
 ### Front-end
  * NextJS
+ * Tailwind
  * Storybook
  * Jest
- * Tailwind
+ * Playwright
 
 ### Back-end
  * NestJS
