@@ -19,7 +19,7 @@ A project that consists of building a CRM platform.
 ## Conceptual Diagram
 ![conceptual_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/d4030e35-bf24-4aa0-b10d-eb44a6bdc504)
 
-## Logical Diagram
+## Logical Diagram (Add later)
 
 ## Pipeline CI/CD Diagram
 ![versioning_flow_diagram](https://github.com/joaofanchini/crm-easyrelation/assets/31604369/5f6fe380-25f5-40b2-b8d0-e37e216459e1)
