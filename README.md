@@ -28,15 +28,14 @@ A project that consists of building a CRM platform.
 ## Technologies
 
 ### Front-end
- * NextJS
+ * ReactJs
  * Tailwind
  * Storybook
  * Jest
  * Playwright
 
 ### Back-end
- * NestJS
- * Prisma
+ * Kotlin
  * Swagger
 
 ### Database
