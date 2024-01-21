@@ -1,0 +1,12 @@
+@import url('./src/interfaces/assets/fonts/fonts.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+  background-image: url('./src/interfaces/assets/svg/Background.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
